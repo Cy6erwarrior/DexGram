@@ -1,20 +1,20 @@
-# IndianBot
+# DexGram
 
 For any query or want to know how it works join
-## https://t.me/IndianBot_Official
+## https://t.me/DexGram_Bot
 
 ## FORK AT YOUR OWN RISK
 ### Installing
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/indianbhaiya/IndianBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NubDexter/DexGram)
 
 ### The Normal Way
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/indianbhaiya/IndianBot
-cd Indianbot
+git clone https://github.com/NubDexter/DexGram
+cd DexGram
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
