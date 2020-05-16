@@ -1,5 +1,5 @@
 '''
-Fix by @pureindialover
+Fix by @NubDexter
 '''
 import os
 import sys
